@@ -1,4 +1,4 @@
-## Hi there 👋
+# Hi there 👋 :+1:
 
 <!--
 **Regina-byte/Regina-byte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
